@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/options1Fragment"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Options 1" />
+
+    <item
+        android:id="@+id/options2Fragment"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Options 2" />
+
+    <item
+        android:id="@+id/options3Fragment"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="Options 3" />
+</menu>
